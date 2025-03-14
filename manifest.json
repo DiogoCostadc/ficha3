@@ -1,0 +1,32 @@
+{
+    "name": "euromilhoes",
+    "short_name": "euro",
+    "start_url":"https://diogocostadc/github.io/ficha3",
+    "scope":".",
+    "display":"standalone",
+    "background_color":"#fff",
+    "theme_color":"#3F51B5",
+    "description":"Euromilhoes",
+    "dir":"ltr",
+    "lang":"en-US",
+    "orientation":"portrait-primary",
+    "icons":[ 
+        {
+            "src":"/img/euro.png",
+            "type":"image/png",
+            "sizes":"512x512"
+            
+        },
+        {
+            "src":"/img/euro1.png",
+            "type":"image/png",
+            "sizes":"192x192"
+        },
+        {
+            "src":"/img/euro2.png",
+            "type":"image/png",
+            "sizes":"400x400"
+        }
+
+    ]
+}
